@@ -1,0 +1,2 @@
+# libpaddleocr
+以capi的paddleocr的单独dll封装
